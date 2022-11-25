@@ -95,6 +95,7 @@
         "alpinejs": "^2.7.3",
         "autoprefixer": "^10.1.0",
         "axios": "^0.21.1",
+        "del": "^7.0.0",
         "laravel-mix": "^6.0.28",
         "lodash": "^4.17.19",
         "postcss": "^8.3.6",
